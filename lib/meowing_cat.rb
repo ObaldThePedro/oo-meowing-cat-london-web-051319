@@ -8,4 +8,4 @@ class Cat
 end
 
 billy = Cat.new
-puts billy.name
+puts billy.name = "Billy"
