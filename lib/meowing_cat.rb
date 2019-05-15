@@ -9,3 +9,4 @@ end
 
 billy = Cat.new
 puts billy.name = "Billy"
+billy.meow
