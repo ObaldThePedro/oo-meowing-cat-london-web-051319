@@ -1,4 +1,3 @@
 ## code your solution here. 
 class Cat
-  def initialize(:name)
-    @name = name
+  attr_accessor
